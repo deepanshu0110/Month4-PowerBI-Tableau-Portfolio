@@ -24,8 +24,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 67 | Day67_DAX_Foundations.xlsx | DAX Foundations - Calculated Columns vs Measures | 45.0 KB |
 | Day 68 | Day 68.pbix | DAX Time Intelligence | 106.0 KB |
 | Day 68 | Day68_Time_Intelligence.xlsx | DAX Time Intelligence | 84.9 KB |
+| Day 69 | Day 69.pbix | Power BI Relationships + Star Schema | 116.5 KB |
+| Day 69 | Day69_Relationships_StarSchema.xlsx | Power BI Relationships + Star Schema | 85.5 KB |
 
-*Last updated: 04 May 2026, 20:23*
+*Last updated: 04 May 2026, 20:47*
 
 ## Full 12-Month Program
 
