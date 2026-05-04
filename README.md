@@ -20,8 +20,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 |-----|------|-------|------|
 | Day 66 | Day66_PowerBI.pbix | Power BI Setup + Data Model Basics | 71.8 KB |
 | Day 66 | Day66_PowerBI_DataModel.xlsx | Power BI Setup + Data Model Basics | 38.4 KB |
+| Day 67 | Day 67.pbix | DAX Foundations - Calculated Columns vs Measures | 72.5 KB |
+| Day 67 | Day67_DAX_Foundations.xlsx | DAX Foundations - Calculated Columns vs Measures | 45.0 KB |
 
-*Last updated: 04 May 2026, 11:06*
+*Last updated: 04 May 2026, 12:21*
 
 ## Full 12-Month Program
 
