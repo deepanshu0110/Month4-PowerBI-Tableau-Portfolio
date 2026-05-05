@@ -26,8 +26,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 68 | Day68_Time_Intelligence.xlsx | DAX Time Intelligence | 84.9 KB |
 | Day 69 | Day 69.pbix | Power BI Relationships + Star Schema | 116.5 KB |
 | Day 69 | Day69_Relationships_StarSchema.xlsx | Power BI Relationships + Star Schema | 85.5 KB |
+| Day 70 | Day 70.pbix | Week 1 Mini-Project - Sales Dashboard | 86.0 KB |
+| Day 70 | Day70_Week1_MiniProject_SalesDashboard.xlsx | Week 1 Mini-Project - Sales Dashboard | 51.1 KB |
 
-*Last updated: 05 May 2026, 11:22*
+*Last updated: 05 May 2026, 14:12*
 
 ## Full 12-Month Program
 
