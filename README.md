@@ -28,8 +28,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 69 | Day69_Relationships_StarSchema.xlsx | Power BI Relationships + Star Schema | 85.5 KB |
 | Day 70 | Day 70.pbix | Week 1 Mini-Project - Sales Dashboard | 86.0 KB |
 | Day 70 | Day70_Week1_MiniProject_SalesDashboard.xlsx | Week 1 Mini-Project - Sales Dashboard | 51.1 KB |
+| Day 71 | Day 71.pbix | Power Query - Data Cleaning in Power BI | 50.5 KB |
+| Day 71 | Day71_PowerQuery_Cleaning_Guide.xlsx | Power Query - Data Cleaning in Power BI | 30.4 KB |
 
-*Last updated: 05 May 2026, 14:13*
+*Last updated: 06 May 2026, 10:46*
 
 ## Full 12-Month Program
 
