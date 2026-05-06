@@ -32,8 +32,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 71 | Day71_PowerQuery_Cleaning_Guide.xlsx | Power Query - Data Cleaning in Power BI | 30.4 KB |
 | Day 72 | Day 72.pbix | Advanced DAX - CALCULATE, FILTER, ALL | 69.0 KB |
 | Day 72 | Day72_Advanced_DAX.xlsx | Advanced DAX - CALCULATE, FILTER, ALL | 33.2 KB |
+| Day 73 | Day 73.pbix | Drill-through + Bookmarks + Tooltips | 37.4 KB |
+| Day 73 | Day73_Drillthrough_Bookmarks_Tooltips.xlsx | Drill-through + Bookmarks + Tooltips | 30.6 KB |
 
-*Last updated: 06 May 2026, 12:09*
+*Last updated: 06 May 2026, 13:59*
 
 ## Full 12-Month Program
 
