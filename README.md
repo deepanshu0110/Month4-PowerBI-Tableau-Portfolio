@@ -34,8 +34,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 72 | Day72_Advanced_DAX.xlsx | Advanced DAX - CALCULATE, FILTER, ALL | 33.2 KB |
 | Day 73 | Day 73.pbix | Drill-through + Bookmarks + Tooltips | 37.4 KB |
 | Day 73 | Day73_Drillthrough_Bookmarks_Tooltips.xlsx | Drill-through + Bookmarks + Tooltips | 30.6 KB |
+| Day 74 | Day 74.pbix | KPI Cards + Conditional Formatting | 54.0 KB |
+| Day 74 | Day74_KPI_Cards_Conditional_Formatting.xlsx | KPI Cards + Conditional Formatting | 89.4 KB |
 
-*Last updated: 06 May 2026, 14:00*
+*Last updated: 07 May 2026, 12:05*
 
 ## Full 12-Month Program
 
