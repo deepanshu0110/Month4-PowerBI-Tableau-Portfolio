@@ -36,8 +36,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 73 | Day73_Drillthrough_Bookmarks_Tooltips.xlsx | Drill-through + Bookmarks + Tooltips | 30.6 KB |
 | Day 74 | Day 74.pbix | KPI Cards + Conditional Formatting | 54.0 KB |
 | Day 74 | Day74_KPI_Cards_Conditional_Formatting.xlsx | KPI Cards + Conditional Formatting | 89.4 KB |
+| Day 75 | Day 75.pbix | Week 2 Mini-Project - KPI Report | 41.2 KB |
+| Day 75 | Day75_Week2_MiniProject_KPI_Report.xlsx | Week 2 Mini-Project - KPI Report | 28.2 KB |
 
-*Last updated: 07 May 2026, 13:27*
+*Last updated: 07 May 2026, 13:49*
 
 ## Full 12-Month Program
 
