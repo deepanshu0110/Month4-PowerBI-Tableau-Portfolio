@@ -38,8 +38,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 74 | Day74_KPI_Cards_Conditional_Formatting.xlsx | KPI Cards + Conditional Formatting | 89.4 KB |
 | Day 75 | Day 75.pbix | Week 2 Mini-Project - KPI Report | 41.2 KB |
 | Day 75 | Day75_Week2_MiniProject_KPI_Report.xlsx | Week 2 Mini-Project - KPI Report | 28.2 KB |
+| Day 76 | Day 76.twb | Tableau Setup + Connecting to Data | 72.3 KB |
+| Day 76 | Day76_Tableau_Setup.xlsx | Tableau Setup + Connecting to Data | 34.8 KB |
 
-*Last updated: 07 May 2026, 13:49*
+*Last updated: 07 May 2026, 20:30*
 
 ## Full 12-Month Program
 
