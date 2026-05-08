@@ -40,8 +40,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 75 | Day75_Week2_MiniProject_KPI_Report.xlsx | Week 2 Mini-Project - KPI Report | 28.2 KB |
 | Day 76 | Day 76.twb | Tableau Setup + Connecting to Data | 72.3 KB |
 | Day 76 | Day76_Tableau_Setup.xlsx | Tableau Setup + Connecting to Data | 34.8 KB |
+| Day 77 | Day77_Tableau_Charts.xlsx | Tableau Charts - Bar, Line, Scatter, Maps | 35.1 KB |
+| Day 77 | Day77_TechMart_Charts.twbx | Tableau Charts - Bar, Line, Scatter, Maps | 88.7 KB |
 
-*Last updated: 07 May 2026, 20:30*
+*Last updated: 08 May 2026, 12:05*
 
 ## Full 12-Month Program
 
