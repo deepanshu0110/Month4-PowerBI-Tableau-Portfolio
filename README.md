@@ -44,8 +44,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 77 | Day77_TechMart_Charts.twbx | Tableau Charts - Bar, Line, Scatter, Maps | 88.7 KB |
 | Day 78 | Day 78.twb | Tableau Calculated Fields + LOD Expressions | 128.1 KB |
 | Day 78 | Day78_Tableau_CalcFields_LOD.xlsx | Tableau Calculated Fields + LOD Expressions | 31.1 KB |
+| Day 79 | Day 79.twb | Tableau Dashboards + Actions | 199.5 KB |
+| Day 79 | Day79_Tableau_Dashboards_Actions.xlsx | Tableau Dashboards + Actions | 32.6 KB |
 
-*Last updated: 08 May 2026, 15:50*
+*Last updated: 08 May 2026, 17:07*
 
 ## Full 12-Month Program
 
