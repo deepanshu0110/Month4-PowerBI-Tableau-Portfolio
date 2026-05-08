@@ -40,6 +40,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 75 | Day75_Week2_MiniProject_KPI_Report.xlsx | Week 2 Mini-Project - KPI Report | 28.2 KB |
 | Day 76 | Day 76.twb | Tableau Setup + Connecting to Data | 72.3 KB |
 | Day 76 | Day76_Tableau_Setup.xlsx | Tableau Setup + Connecting to Data | 34.8 KB |
+| Day 77 | Day 77.twb | Tableau Charts - Bar, Line, Scatter, Maps | 162.4 KB |
 | Day 77 | Day 77.twbx | Tableau Charts - Bar, Line, Scatter, Maps | 88.7 KB |
 | Day 77 | Day77_Tableau_Charts.xlsx | Tableau Charts - Bar, Line, Scatter, Maps | 35.1 KB |
 | Day 78 | Day 78.twb | Tableau Calculated Fields + LOD Expressions | 128.1 KB |
@@ -47,7 +48,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 79 | Day 79.twb | Tableau Dashboards + Actions | 199.5 KB |
 | Day 79 | Day79_Tableau_Dashboards_Actions.xlsx | Tableau Dashboards + Actions | 32.6 KB |
 
-*Last updated: 08 May 2026, 17:10*
+*Last updated: 08 May 2026, 17:11*
 
 ## Full 12-Month Program
 
