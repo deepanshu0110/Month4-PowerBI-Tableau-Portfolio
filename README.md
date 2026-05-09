@@ -49,8 +49,11 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 79 | Day79_Tableau_Dashboards_Actions.xlsx | Tableau Dashboards + Actions | 32.6 KB |
 | Day 80 | Day 80.twb | Week 3 Mini-Project - Tableau Sales Story | 147.2 KB |
 | Day 80 | Day80_Tableau_Sales_Story_MiniProject.xlsx | Week 3 Mini-Project - Tableau Sales Story | 37.7 KB |
+| Day 81 | Day 81.pbix | Power BI vs Tableau - Side-by-Side Build | 52.5 KB |
+| Day 81 | Day 81.twb | Power BI vs Tableau - Side-by-Side Build | 108.5 KB |
+| Day 81 | Day81_PowerBI_vs_Tableau_SideBySide.xlsx | Power BI vs Tableau - Side-by-Side Build | 34.6 KB |
 
-*Last updated: 09 May 2026, 19:01*
+*Last updated: 09 May 2026, 19:35*
 
 ## Full 12-Month Program
 
