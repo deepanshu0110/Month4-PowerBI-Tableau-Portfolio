@@ -26,7 +26,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 68 | Day68_Time_Intelligence.xlsx | DAX Time Intelligence | 84.9 KB |
 | Day 69 | Day 69.pbix | Power BI Relationships + Star Schema | 116.5 KB |
 | Day 69 | Day69_Relationships_StarSchema.xlsx | Power BI Relationships + Star Schema | 85.5 KB |
-| Day 70 | Day 70.pbix | Week 1 Mini-Project - Sales Dashboard | 86.0 KB |
+| Day 70 | Day 70.pbix | Week 1 Mini-Project - Sales Dashboard | 86.2 KB |
 | Day 70 | Day70_Week1_MiniProject_SalesDashboard.xlsx | Week 1 Mini-Project - Sales Dashboard | 51.1 KB |
 | Day 71 | Day 71.pbix | Power Query - Data Cleaning in Power BI | 50.5 KB |
 | Day 71 | Day71_PowerQuery_Cleaning_Guide.xlsx | Power Query - Data Cleaning in Power BI | 30.4 KB |
@@ -52,7 +52,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 81 | Day 81.twb | Power BI vs Tableau - Side-by-Side Build | 108.5 KB |
 | Day 81 | Day81_PowerBI_vs_Tableau_SideBySide.xlsx | Power BI vs Tableau - Side-by-Side Build | 34.6 KB |
 
-*Last updated: 09 May 2026, 20:25*
+*Last updated: 09 May 2026, 20:38*
 
 ## Full 12-Month Program
 
