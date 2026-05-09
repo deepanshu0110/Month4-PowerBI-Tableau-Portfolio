@@ -47,8 +47,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 78 | Day78_Tableau_CalcFields_LOD.xlsx | Tableau Calculated Fields + LOD Expressions | 31.1 KB |
 | Day 79 | Day 79.twb | Tableau Dashboards + Actions | 199.5 KB |
 | Day 79 | Day79_Tableau_Dashboards_Actions.xlsx | Tableau Dashboards + Actions | 32.6 KB |
+| Day 80 | Day 80.twb | Week 3 Mini-Project - Tableau Sales Story | 147.2 KB |
+| Day 80 | Day80_Tableau_Sales_Story_MiniProject.xlsx | Week 3 Mini-Project - Tableau Sales Story | 37.7 KB |
 
-*Last updated: 08 May 2026, 17:13*
+*Last updated: 09 May 2026, 14:50*
 
 ## Full 12-Month Program
 
