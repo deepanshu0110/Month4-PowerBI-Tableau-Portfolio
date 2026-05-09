@@ -41,7 +41,6 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 76 | Day 76.twb | Tableau Setup + Connecting to Data | 72.3 KB |
 | Day 76 | Day76_Tableau_Setup.xlsx | Tableau Setup + Connecting to Data | 34.8 KB |
 | Day 77 | Day 77.twb | Tableau Charts - Bar, Line, Scatter, Maps | 162.4 KB |
-| Day 77 | Day 77.twbx | Tableau Charts - Bar, Line, Scatter, Maps | 88.7 KB |
 | Day 77 | Day77_Tableau_Charts.xlsx | Tableau Charts - Bar, Line, Scatter, Maps | 35.1 KB |
 | Day 78 | Day 78.twb | Tableau Calculated Fields + LOD Expressions | 128.1 KB |
 | Day 78 | Day78_Tableau_CalcFields_LOD.xlsx | Tableau Calculated Fields + LOD Expressions | 31.1 KB |
@@ -53,7 +52,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 81 | Day 81.twb | Power BI vs Tableau - Side-by-Side Build | 108.5 KB |
 | Day 81 | Day81_PowerBI_vs_Tableau_SideBySide.xlsx | Power BI vs Tableau - Side-by-Side Build | 34.6 KB |
 
-*Last updated: 09 May 2026, 19:38*
+*Last updated: 09 May 2026, 20:25*
 
 ## Full 12-Month Program
 
