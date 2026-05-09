@@ -53,7 +53,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 81 | Day81_PowerBI_vs_Tableau_SideBySide.xlsx | Power BI vs Tableau - Side-by-Side Build | 34.6 KB |
 | Day 82 | Day82_PowerBI_Service_Publish_Share.xlsx | Power BI Service - Publish + Share | 37.2 KB |
 
-*Last updated: 09 May 2026, 21:11*
+*Last updated: 09 May 2026, 23:41*
 
 ## Full 12-Month Program
 
