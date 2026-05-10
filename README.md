@@ -76,3 +76,5 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 ## Connect
 
 [GitHub](https://github.com/deepanshu0110)
+[Tableau Public Portfolio](https://public.tableau.com/app/profile/deepanshu.garg8585/viz/TechMart-India-Sales-Story/TechMartIndiaSalesStory)
+
