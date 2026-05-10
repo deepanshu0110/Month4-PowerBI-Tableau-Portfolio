@@ -52,8 +52,10 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 81 | Day 81.twb | Power BI vs Tableau - Side-by-Side Build | 108.5 KB |
 | Day 81 | Day81_PowerBI_vs_Tableau_SideBySide.xlsx | Power BI vs Tableau - Side-by-Side Build | 34.6 KB |
 | Day 82 | Day82_PowerBI_Service_Publish_Share.xlsx | Power BI Service - Publish + Share | 37.2 KB |
+| Day 83 | Day 83.twb | Tableau Public - Publish + Portfolio | 103.6 KB |
+| Day 83 | Day83_TableauPublic_Portfolio.xlsx | Tableau Public - Publish + Portfolio | 36.5 KB |
 
-*Last updated: 10 May 2026, 13:27*
+*Last updated: 10 May 2026, 14:36*
 
 ## Full 12-Month Program
 
