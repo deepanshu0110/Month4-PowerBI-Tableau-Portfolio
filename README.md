@@ -54,8 +54,9 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 | Day 82 | Day82_PowerBI_Service_Publish_Share.xlsx | Power BI Service - Publish + Share | 37.2 KB |
 | Day 83 | Day 83.twb | Tableau Public - Publish + Portfolio | 103.6 KB |
 | Day 83 | Day83_TableauPublic_Portfolio.xlsx | Tableau Public - Publish + Portfolio | 36.5 KB |
+| Day 84 | Day84_DashboardDesignPrinciples.xlsx | End-to-End BI Project - Client Brief | 34.5 KB |
 
-*Last updated: 10 May 2026, 14:36*
+*Last updated: 10 May 2026, 15:59*
 
 ## Full 12-Month Program
 
