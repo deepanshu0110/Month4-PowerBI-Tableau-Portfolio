@@ -66,7 +66,7 @@ Power BI | Tableau | DAX | Power Query | Excel | Python (Pandas)
 |-------|-------|--------|
 | 1-2   | Excel + SQL | Complete |
 | 3     | Python / Pandas + Math Bridge | Complete |
-| **4** | **Power BI + Tableau (current)** | In Progress |
+| **4** | **Power BI + Tableau (current)** | Complete |
 | 5     | Upwork Activation + Freelance Projects | Pending |
 | 6     | Statistics + A/B Testing | Pending |
 | 7-8   | Machine Learning | Pending |
